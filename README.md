@@ -86,34 +86,45 @@ Soy **Backend Developer** y estudiante de Ingeniería de Sistemas en **Unicolomb
 
 <table>
 <tr>
-<td align="center" width="60">
-<img src="https://img.shields.io/badge/-🔗-0d1117?style=flat" />
+<td valign="top" width="60%">
+
+### [🔗 cositracker.online](https://cositracker.online)
+
+**SaaS de gestión de pedidos** para pequeños y medianos negocios — tiendas, talleres de confección, emprendedores y cualquier empresa basada en encargos de clientes.
+
+**Funcionalidades principales:**
+
+- 📦 **Gestión integral de pedidos** — crear, actualizar, historial completo
+- 👥 **Administración de clientes** — base de datos centralizada, formularios de alta
+- 🔍 **Rastreo público de pedidos** — los clientes consultan su orden sin necesidad de cuenta (`/rastrear`)
+- 📊 **Dashboard con KPIs** — métricas clave y gráficas en tiempo real
+- 💬 **Módulo de comentarios** — feedback integrado por pedido
+- 📱 **PWA** — funciona en cualquier dispositivo e instalable como app
+- 🔐 **Autenticación segura** con JWT
+
 </td>
-<td>
-
-### [cositracker.online](https://cositracker.online)
-
-Plataforma web full stack para el **seguimiento inteligente de costos y gastos** con análisis en tiempo real, reportes visuales y gestión financiera personalizada.
-
-</td>
-</tr>
-</table>
+<td valign="top" width="40%" align="center">
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Estado-Producción-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Tipo-Full%20Stack-58a6ff?style=for-the-badge&logo=layers&logoColor=white" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Origen-Cartagena%20🇨🇴-orange?style=for-the-badge" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fcositracker.online&style=for-the-badge&label=Uptime" />
+<img src="https://img.shields.io/badge/Estado-En_Producción-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Tipo-SaaS_Full_Stack-58a6ff?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PWA-Instalable-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Auth-JWT-F05032?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fcositracker.online&style=for-the-badge&label=Uptime&logo=statuspage" />
+
 </td>
 </tr>
 </table>
