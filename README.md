@@ -238,7 +238,7 @@ idiomas:
 
 <div align="center">
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=MauricioFonck&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=MauricioFonck&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -248,17 +248,17 @@ idiomas:
 
 <div align="center">
 
-<a href="https://cositracker.online">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioFonck&repo=cositracker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/MauricioFonck/SmartPOS-AppMobil-Android-Sistema-de-Gesti-n-Comercial">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioFonck&repo=SmartPOS-AppMobil-Android-Sistema-de-Gesti-n-Comercial&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://donatecaribeensena.org">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioFonck&repo=caribe-ensena&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/MauricioFonck/ARVisionX-Mobile">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioFonck&repo=ARVisionX-Mobile&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/MauricioFonck/NOMBRE-REPO-3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioFonck&repo=NOMBRE-REPO-3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/MauricioFonck/Edubooks">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioFonck&repo=Edubooks&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/MauricioFonck/NOMBRE-REPO-4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioFonck&repo=NOMBRE-REPO-4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/MauricioFonck/gametracker-backend">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MauricioFonck&repo=gametracker-backend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -275,11 +275,7 @@ idiomas:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MauricioFonck/MauricioFonck/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MauricioFonck/MauricioFonck/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/MauricioFonck/MauricioFonck/output/github-snake-dark.svg" />
-</picture>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioFonck&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a2744" />
 
 </div>
 
