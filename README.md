@@ -32,29 +32,45 @@
 
 ## 🧑‍💻 Sobre Mí
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=MauricioFonck&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```yaml
-nombre:      Mauricio Andrés Vergara Fonseca
-alias:       MauricioFonck
-rol:         Backend Developer · Full Stack
-ubicación:   Cartagena, Colombia 🇨🇴
-educación:   Ingeniería de Sistemas - Unicolombo (7° sem.)
-             Tecnólogo en Desarrollo de Software
-enfoque:
-  - Diseño de APIs eficientes y escalables
-  - Modelado de bases de datos
-  - Arquitecturas de microservicios
-  - Integración continua y CI/CD
-proyecto_actual: cositracker.online
-idiomas:
-  - Español (nativo)
-  - Inglés (intermedio)
-```
+<h3>👋 ¡Hola! Soy Mauricio</h3>
 
-> *"Me especializo en el diseño de APIs eficientes, modelado de bases de datos y construcción de arquitecturas escalables."*
+Soy **Backend Developer** y estudiante de Ingeniería de Sistemas en **Unicolombo**, Cartagena — Colombia. Me especializo en construir APIs robustas, arquitecturas escalables y soluciones web de alto rendimiento.
 
-<br clear="right"/>
+<br/>
+
+**🎯 Lo que hago:**
+
+&nbsp;&nbsp;⚡ Diseño de APIs REST eficientes y bien documentadas
+&nbsp;&nbsp;🗄️ Modelado y optimización de bases de datos
+&nbsp;&nbsp;🏗️ Arquitecturas de microservicios
+&nbsp;&nbsp;🔄 Integración continua y pipelines CI/CD
+&nbsp;&nbsp;📱 Desarrollo de apps web y móviles
+
+<br/>
+
+**🌍 Idiomas:**
+
+![Español](https://img.shields.io/badge/Español-Nativo-58a6ff?style=flat-square)
+![Inglés](https://img.shields.io/badge/Inglés-Intermedio-8b949e?style=flat-square)
+
+<br/>
+
+**📍 Cartagena, Colombia** &nbsp;·&nbsp; **🎓 Ing. Sistemas – 7° Sem.**
+
+</td>
+<td valign="top" width="45%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MauricioFonck&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MauricioFonck&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,25 +79,44 @@ idiomas:
 <div align="center">
 
 <a href="https://cositracker.online">
-  <img src="https://img.shields.io/badge/🚀_EN_PRODUCCIÓN-cositracker.online-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🚀%20EN%20PRODUCCIÓN-%20-58a6ff?style=for-the-badge&labelColor=0d1117" />
 </a>
 
-</div>
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="60">
+<img src="https://img.shields.io/badge/-🔗-0d1117?style=flat" />
+</td>
+<td>
+
+### [cositracker.online](https://cositracker.online)
+
+Plataforma web full stack para el **seguimiento inteligente de costos y gastos** con análisis en tiempo real, reportes visuales y gestión financiera personalizada.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    🔗 cositracker.online                        │
-│                                                                 │
-│   Plataforma web para el seguimiento inteligente de costos      │
-│   y gastos, con análisis en tiempo real y reportes visuales.    │
-│                                                                 │
-│   ⚡ Full Stack  ·  En Producción  ·  Cartagena, Colombia       │
-└─────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Estado-Producción-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Tipo-Full%20Stack-58a6ff?style=for-the-badge&logo=layers&logoColor=white" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Origen-Cartagena%20🇨🇴-orange?style=for-the-badge" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fcositracker.online&style=for-the-badge&label=Uptime" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -161,6 +196,7 @@ idiomas:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
@@ -183,7 +219,6 @@ idiomas:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&logo=githubactions&logoColor=58a6ff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -208,11 +243,34 @@ idiomas:
 
 ---
 
-## 🤝 Soft Skills
+## 🤝 Habilidades Blandas
 
 <div align="center">
 
-`Pensamiento Analítico` &nbsp;·&nbsp; `Adaptabilidad` &nbsp;·&nbsp; `Trabajo en Equipo` &nbsp;·&nbsp; `Resolución de Problemas` &nbsp;·&nbsp; `Autonomía`
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🧠-Pensamiento_Analítico-1a2744?style=for-the-badge&labelColor=0d1117&color=58a6ff" /><br/>
+<sub>Descomposición de problemas complejos en soluciones claras</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔄-Adaptabilidad-1a2744?style=for-the-badge&labelColor=0d1117&color=58a6ff" /><br/>
+<sub>Rápida adopción de nuevas tecnologías y entornos</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/👥-Trabajo_en_Equipo-1a2744?style=for-the-badge&labelColor=0d1117&color=58a6ff" /><br/>
+<sub>Comunicación efectiva y colaboración en equipos ágiles</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/💡-Resolución_de_Problemas-1a2744?style=for-the-badge&labelColor=0d1117&color=58a6ff" /><br/>
+<sub>Enfoque orientado a resultados y soluciones prácticas</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🚀-Autonomía-1a2744?style=for-the-badge&labelColor=0d1117&color=58a6ff" /><br/>
+<sub>Gestión propia de proyectos con mínima supervisión</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -222,10 +280,7 @@ idiomas:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MauricioFonck&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MauricioFonck&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioFonck&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioFonck&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 <!-- ACTIVITY GRAPH -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MauricioFonck&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
@@ -238,7 +293,7 @@ idiomas:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MauricioFonck&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=MauricioFonck&theme=darkhub&no-frame=true&column=6&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
