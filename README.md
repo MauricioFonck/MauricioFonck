@@ -118,7 +118,7 @@ idiomas:
 | Título | Institución | Estado |
 |--------|-------------|--------|
 | Ingeniería de Sistemas | Fundación Universitaria Colombo Internacional (Unicolombo) · Cartagena | 7° Semestre · En curso |
-| Tecnólogo en Desarrollo de Software | — | Completado |
+| Tecnólogo en Desarrollo de Software | Fundación Universitaria Colombo Internacional (Unicolombo) · Cartagena | Completado |
 
 ---
 
